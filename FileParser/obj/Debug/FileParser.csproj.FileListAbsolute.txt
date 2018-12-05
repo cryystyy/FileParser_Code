@@ -1,0 +1,12 @@
+C:\Users\crarsene\source\repos\FileParser\bin\Debug\FileParser.exe.config
+C:\Users\crarsene\source\repos\FileParser\bin\Debug\FileParser.exe
+C:\Users\crarsene\source\repos\FileParser\bin\Debug\FileParser.pdb
+C:\Users\crarsene\source\repos\FileParser\obj\Debug\FileParser.csproj.CoreCompileInputs.cache
+C:\Users\crarsene\source\repos\FileParser\obj\Debug\FileParser.exe
+C:\Users\crarsene\source\repos\FileParser\obj\Debug\FileParser.pdb
+C:\Users\crarsene\source\FileParser_Code\FileParser\bin\Debug\FileParser.exe.config
+C:\Users\crarsene\source\FileParser_Code\FileParser\bin\Debug\FileParser.exe
+C:\Users\crarsene\source\FileParser_Code\FileParser\bin\Debug\FileParser.pdb
+C:\Users\crarsene\source\FileParser_Code\FileParser\obj\Debug\FileParser.csproj.CoreCompileInputs.cache
+C:\Users\crarsene\source\FileParser_Code\FileParser\obj\Debug\FileParser.exe
+C:\Users\crarsene\source\FileParser_Code\FileParser\obj\Debug\FileParser.pdb
